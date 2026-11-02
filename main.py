@@ -3,7 +3,9 @@ tasks = ["Learn Python", "Learn Git", "Learn GitHub"]
 
 for task in tasks:
     print(task)
-print("Hello from main and conflict-practice")
+print("My first Git project")
 print("I am learning Git!")
 print("I am practicing Git branches!")
 print("I am learning Git branches!")
+print("radwan")
+print("radwan")
